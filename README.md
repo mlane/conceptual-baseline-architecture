@@ -16,8 +16,8 @@ Baseline. Isolation. Execution.
 
 This is architecture-level thinking that blends two modes:
 
-**Architect** – sees the whole system, names constraints, chooses boundaries  
-**Inventor** – builds fast, learns by contact with reality, proves things quickly
+**Architect** - sees the whole system, names constraints, chooses boundaries  
+**Inventor** - builds fast, learns by contact with reality, proves things quickly
 
 You can shift modes anytime. The method stays the same.
 
